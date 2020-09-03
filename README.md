@@ -9,9 +9,6 @@ I'm Alexandre. I am a recent graduate in Computer Science and Web Development fr
 - 👨‍💻  I’m currently playing with headless CMS, [Strapi.js](https://github.com/strapi/strapi) and [Ghost](https://github.com/TryGhost/Ghost) alongside [Gatsby.js](https://github.com/gatsbyjs/gatsby)
 - 🌱 I am currently learning about philosophy while reading [The Courage to be Disliked](https://www.goodreads.com/book/show/41641923-the-courage-to-be-disliked)
 - 📫 You can reach out to me on [Twitter](https://twitter.com/mrcalexandre) or via [Email](https://alexandremouriec.com/contact)
-- 🎧 I am currently listening to 👇
-*WIP*
-
 
 ### 🛠 Languages
 
