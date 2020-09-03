@@ -2,7 +2,6 @@
 
 I'm Alexandre. I am a recent graduate in Computer Science and Web Development from 🇫🇷.  Most of the time you can find me on [Twitter](https://twitter.com/mrcalexandre)
 <br />
-[![Twitter Badge](https://img.shields.io/badge/-@mrcalexandre-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrcalexandre)](https://twitter.com/mrcalexandre) [![Linkedin Badge](https://img.shields.io/badge/-alexandremouriec-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlim/)](https://www.linkedin.com/in/alexandremouriec/) [![Github Badge](https://img.shields.io/badge/-mrcalexandre-000000?style=flat&labelColor=000000&logo=Github&link=https://github.com/mrcalexandre)](https://github.com/mrcalexandre) [![Website Badge](https://img.shields.io/badge/-alexandremouriec.com-grey?style=flat&logo=Google-Chrome&logoColor=white&link=https://alexandremouriec.com)](https://alexandremouriec.com) [![ProductHunt Badge](https://img.shields.io/badge/-mrcalexandre-orange?style=flat&logo=Product-Hunt&logoColor=white&link=https://www.producthunt.com/@mrcalexandre)](https://www.producthunt.com/@mrcalexandre)
 
 
 - 🚀 I’m looking for a new job as a Full Stack/Frontend Developer in Europe 🌍
