@@ -7,7 +7,7 @@ I'm Alexandre. I am a recent graduate in Computer Science and Web Development fr
 - 🚀 I’m looking for a new job as a Full Stack/Front End Developer in London 🇬🇧
 - 🎓  I have studied Computer Science and Web Development at IUT of Lannion.
 - 👨‍💻  I’m currently working on my new portfolio using [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss), [Gatsby.js](https://github.com/gatsbyjs/gatsby) and the headless CMS [Strapi.js](https://github.com/strapi/strapi).
-- 🌱 I am currently learning about money while reading [The Psychology of Money](https://www.goodreads.com/book/show/41881472-the-psychology-of-money)
+- 🌱 I am currently learning about money while reading [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
 - 📫 You can reach out to me on [Twitter](https://twitter.com/mrcalexandre) or via [Email](https://alexandremouriec.com/contact)
 
 ### 🛠 Languages
