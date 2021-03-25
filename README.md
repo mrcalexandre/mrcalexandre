@@ -1,10 +1,10 @@
 ### Hi, I'm Alexandre 👋
 
-I'm Alexandre. I am a recent graduate in Computer Science and Web Development from 🇫🇷.  Most of the time you can find me on [Twitter](https://twitter.com/mrcalexandre)
+I'm Alexandre. I am a Full-Stack Developer and recent graduate in Computer Science and Web Development from 🇫🇷.  Most of the time you can find me on [Twitter](https://twitter.com/mrcalexandre)
 <br />
 
 
-- 🚀 I’m looking for a new job as a Full Stack/Front End Developer remotely 🌍
+- 🚀 I’m starting a new job very soon
 - 🎓  I have studied Computer Science and Web Development at IUT of Lannion.
 - 👨‍💻  I’m currently learning about [Next.js](https://github.com/vercel/next.js)
 - 🌱 I am currently learning about stoicism while reading [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
