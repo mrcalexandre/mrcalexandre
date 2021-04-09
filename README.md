@@ -4,7 +4,7 @@ I'm Alexandre. I am a Full-Stack Developer and recent graduate in Computer Scien
 <br />
 
 
-- 🚀 I’m starting a new job very soon
+- 🚀 I am currently working at [Crisp](https://crisp.chat) as a Full-Stack Engineer
 - 🎓  I have studied Computer Science and Web Development at IUT of Lannion.
 - 👨‍💻  I’m currently learning about [Next.js](https://github.com/vercel/next.js)
 - 🌱 I am currently learning about stoicism while reading [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
