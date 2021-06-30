@@ -7,7 +7,7 @@ I'm Alexandre. I am a Full-Stack Developer and recent graduate in Computer Scien
 - 🚀 I am currently working at [Crisp](https://crisp.chat) as a Full-Stack Engineer
 - 🎓  I have studied Computer Science and Web Development at IUT of Lannion.
 - 👨‍💻  I’m currently learning about [Next.js](https://github.com/vercel/next.js)
-- 🌱 I am currently learning about stoicism while reading [Meditations](https://www.goodreads.com/book/show/30659.Meditations)
+- 🌱 I am currently reading [The Three-Body Problem by Liu Cixin](https://www.goodreads.com/book/show/20518872-the-three-body-problem)
 - 📫 You can reach out to me on [Twitter](https://twitter.com/mrcalexandre) or via [Email](https://alexandremouriec.com/contact)
 
 ### 🛠 Languages
