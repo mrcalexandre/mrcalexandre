@@ -1,13 +1,13 @@
 ### Hi, I'm Alexandre 👋
 
-I'm Alexandre. I am a Full-Stack Developer and recent graduate in Computer Science and Web Development from 🇫🇷.  Most of the time you can find me on [Twitter](https://twitter.com/mrcalexandre)
+I'm Alexandre. I am a Full-Stack Developer and graduate in Computer Science and Web Development from 🇫🇷.  Most of the time you can find me on [Twitter](https://twitter.com/mrcalexandre)
 <br />
 
 
 - 🚀 I am currently working at [Crisp](https://crisp.chat) as a Full-Stack Engineer
 - 🎓  I have studied Computer Science and Web Development at IUT of Lannion.
-- 👨‍💻  I’m currently learning about [Next.js](https://github.com/vercel/next.js)
-- 🌱 I am currently reading [When Things Fall Apart: Heart Advice for Difficult Times](https://www.goodreads.com/book/show/687278.When_Things_Fall_Apart)
+- 👨‍💻  I’m currently working on our Crisp [Website](https://crisp.chat/en/) and [Blog](https://crisp.chat/en/blog/)
+- 🌱 I am currently reading [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits)
 - 📫 You can reach out to me on [Twitter](https://twitter.com/mrcalexandre) or via [Email](https://alexandremouriec.com/contact)
 
 ### 🛠 Languages
